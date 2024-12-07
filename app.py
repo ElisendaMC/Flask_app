@@ -19,7 +19,7 @@ def uic_function2():
 #Ruta /contact
 @app.route("/uic3")
 def uic_function3():
-    return "Practica de Git"
+    return "Practica de Git. /n Estamos probando comandos de Git"
 
 #Ruta /hobbies
 # @app.contact("/")
